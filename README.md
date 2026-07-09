@@ -1,6 +1,3 @@
-# SQL---Exploratory---data---Analysis
-
-
 <h1> 🚀 SQL Exploratory Data Analysis (EDA) Project </h1>
 
 I recently completed an Exploratory Data Analysis (EDA) project using MySQL on a retail sales dataset.
@@ -9,22 +6,22 @@ Instead of jumping directly into dashboards, I focused on understanding the data
 
 What I explored:
 
-📌 1. Database Exploration
+<h1> 📌 1. Database Exploration </h1>
 
 Explored database objects and tables
 Understood table structure and columns
 
-📌 2. Dimensions Exploration
+<h1> 📌 2. Dimensions Exploration </h1>
 
 Customer demographics (Country, Gender, Marital Status)
 Product Categories and Subcategories
 
-📌 3. Date Exploration
+<h1> 📌 3. Date Exploration </h1>
 
 First and last order dates
 Customer age distribution
 
-📌 4. Measures Exploration
+<h1> 📌 4. Measures Exploration </h1>
 
 Total Sales
 Total Quantity Sold
@@ -33,20 +30,22 @@ Total Orders
 Total Customers
 Total Products
 
-📌 5. Magnitude Analysis
+<h1> 📌 5. Magnitude Analysis </h1>
 
 Revenue by Category
 Revenue by Customer
 Quantity Sold by Country
 Customer distribution by Country
 
-📌 6. Ranking Analysis
+<h1> 📌 6. Ranking Analysis </h1>
 
 Top 5 Best-Selling Products
 Bottom 5 Products
 Top 10 Customers by Revenue
 Customers with the Fewest Orders
-💡 Key SQL concepts used
+
+<h1> 💡 Key SQL concepts used </h1>
+
 Aggregate Functions
 GROUP BY
 ORDER BY
